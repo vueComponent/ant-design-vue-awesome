@@ -6,4 +6,5 @@ ant-design-vue-pro
 
 ## 社区实现(含各种admin)
 - [vue-antd-admin](https://github.com/iczer/vue-antd-admin)
+- [vue-alain](https://github.com/vue-alain/vue-alain)
 
