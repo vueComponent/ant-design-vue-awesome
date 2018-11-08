@@ -8,6 +8,6 @@ ant-design-vue-pro
 ## 社区实现(含各种 admin)
 
 - [vue-antd-admin](https://github.com/iczer/vue-antd-admin)
-- [ant-design-vue-pro](https://github.com/Jackyzm/ant-design-vue-pro)
 - [vue-alain](https://github.com/vue-alain/vue-alain)
 - [ant-design-pro-vue](https://github.com/sendya/ant-design-pro-vue)
+- [ant-design-vue-pro](https://github.com/Jackyzm/ant-design-vue-pro)
