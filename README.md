@@ -12,6 +12,7 @@
 
 - [ant-design-vue-pro](https://github.com/Jackyzm/ant-design-vue-pro) [![ant-design-vue-pro](https://img.shields.io/github/stars/Jackyzm/ant-design-vue-pro.svg)](https://github.com/Jackyzm/ant-design-vue-pro/stargazers)
 
+- [vue-antdesign-admin-template](https://github.com/yalin28/vue-antdesign-admin-template) [![vue-antdesign-admin-template](https://img.shields.io/github/stars/yalin28/vue-antdesign-admin-template.svg)](https://github.com/yalin28/vue-antdesign-admin-template/stargazers)
 
 ### Apps/Websites
 
