@@ -14,6 +14,8 @@
 
 - [vue-antdesign-admin-template](https://github.com/yalin28/vue-antdesign-admin-template) [![vue-antdesign-admin-template](https://img.shields.io/github/stars/yalin28/vue-antdesign-admin-template.svg)](https://github.com/yalin28/vue-antdesign-admin-template/stargazers)
 
+- [vue-antd-admin](https://github.com/VSirrr/vue-antd-admin) ![vue-antd-admin](https://img.shields.io/github/stars/VSirrr/vue-antd-admin)
+
 ### Apps/Websites
 
 - [luban-h5](https://github.com/ly525/luban-h5) ![luban-h5 stars](https://img.shields.io/github/stars/ly525/luban-h5)
